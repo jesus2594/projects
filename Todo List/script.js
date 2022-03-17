@@ -35,7 +35,6 @@ function addTodo(todo) {
         })
 
         
-
         todoEl.addEventListener('contextmenu', (e) => {
             e.preventDefault()
 
